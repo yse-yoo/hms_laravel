@@ -1,6 +1,7 @@
 <x-app-layout>
     <section class="text-center mb-12">
         <h2 class="text-4xl font-bold text-gray-800 mb-4">Menu</h2>
+        <p class="text-gray-600">ラグジュアリーホテルが誇る贅沢な食事をお楽しみください。</p>
     </section>
 
     <section class="p-6">
